@@ -2,6 +2,10 @@
   display: none !important;
 }
 
+.tox-notification {
+  display: none !important;
+}
+
 .note-list {
   height: 100vh !important;
   border: 2px solid #eee;
